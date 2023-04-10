@@ -48,3 +48,9 @@
     width: 60%;
   }
 }
+@media screen and (max-width: 875px) {
+  .loginWrapper {
+    display: inline-block;
+    align-items: center;
+  }
+}
